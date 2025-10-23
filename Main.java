@@ -55,12 +55,15 @@ public static <balance> void main(String[] arg) {
                 System.out.println("Your withdraw amount is: \n" + withdraw);
             }
              else{
-                    System.out.println("Invalid amount!!! error");
+                    System.out.println("Invalid amount!!! error"+"\n1");
                 }
                 break;
 
             case 4:
-                System.out.println("Exit");
+                System.out.println("Exit \n");
+                System.out.println("Please Come again!");
+
+
                 break;
 
 
